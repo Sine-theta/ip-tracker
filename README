@@ -1,2 +1,1 @@
-Tracks geolocation of the victim upon clicking a attacker generated ngrok tunneling link where fake facebook login page is provided.
-Facebook credentials will be sent to attacker if victim submit his credentials. 
+Tracks geolocation of the victim upon clicking an attacker generated ngrok tunneling link where fake facebook login page is provided. Facebook credentials will be sent to the attacker if the victim submit his credentials. 

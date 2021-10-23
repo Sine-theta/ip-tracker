@@ -64,7 +64,7 @@ menu(){
 
 
          printf "\e[0m\n"
-         printf "  \033[1;31m  Ip Address:         \e[0m\e[1;96m:\e[0m\e[1;92m   <<Hidden>>\e[0m\n"
+         printf "  \033[1;31m  Ip Address:         \e[0m\e[1;96m:\e[0m\e[1;92m   $victimip\e[0m\n"
          printf "  \033[1;31m  City                \e[0m\e[1;96m:\e[0m\e[1;92m   $victimcity\e[0m\n"
          printf "  \033[1;31m  Region              \e[0m\e[1;96m:\e[0m\e[1;92m   $victimregion\e[0m\n"
          printf "  \033[1;31m  Regional Code       \e[0m\e[1;96m:\e[0m\e[1;92m   $victimregionalcode\e[0m\n"

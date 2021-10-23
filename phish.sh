@@ -108,7 +108,7 @@ printf "\e[0;36m -------------------------------\n"
  start(){
 
          printf "Starting php server \n\n"
-         php -t "/root/iptrack/temp1" -S 127.0.0.1:5577 > /dev/null 2>&1 &
+         php -t "/" -S 127.0.0.1:5577 > /dev/null 2>&1 &    #put your current working directory in -t option.
          sleep 2
 
 

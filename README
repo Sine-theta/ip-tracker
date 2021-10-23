@@ -4,7 +4,7 @@ Tracks geolocation of the victim upon clicking an attacker generated ngrok tunne
 
 * ngrok executable
 * php command line interface
-
+* Refer https://www.geeksforgeeks.org/how-to-create-a-facebook-phishing-page/ to generate phishing page
 # Room for improvement:
 
 * Provided shell code does not kill ngrok and php process after execution

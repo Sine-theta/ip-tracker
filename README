@@ -1,6 +1,11 @@
 Tracks geolocation of the victim upon clicking an attacker generated ngrok tunneling link where fake facebook login page is provided. Facebook credentials will be sent to the attacker if the victim submit his credentials. 
 
-#Requirements:
+# Requirements:
 
 * ngrok executable
 * php command line interface
+
+# Room for improvement:
+
+* Provided shell code does not kill ngrok and php process after execution
+* Facebook password which the attacker gets will not be in plain text
